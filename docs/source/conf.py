@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'BIOT'
+copyright = '2023, BristeFirmware'
+author = 'BristeFirmware'
 
 release = '0.1'
 version = '0.1.0'
